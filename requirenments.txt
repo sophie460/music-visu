@@ -1,0 +1,11 @@
+pandas as pd
+numpy as np
+matplotlib.pylab as plt
+librosa
+librosa.display
+IPython.display as ipd
+itertools import cycle
+pyaudio
+pygame
+math
+from collections import deque
